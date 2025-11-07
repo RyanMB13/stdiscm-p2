@@ -7,12 +7,12 @@
 ### Using g++ (Linux / macOS / WSL)
 ```bash
 g++ -std=c++17 -pthread main.cpp -o lfg
-
-2. Run the Program
+```
+## 2. Run the Program
 ```bash
 ./lfg
-
-3. Input Parameters
+```
+## 3. Input Parameters
 
 When the program starts, enter the following when prompted:
 Number of dungeon instances (n):
